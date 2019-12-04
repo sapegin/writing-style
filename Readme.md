@@ -9,7 +9,7 @@ Feel free to use as is or fork and adapt to your own needs.
 
 ## Author and license
 
-[Artem Sapegin](http://sapegin.me/), a frontend engineer at [Omio](https://omio.com/) and the creator of [React Styleguidist](https://react-styleguidist.js.org/).
+[Artem Sapegin](https://sapegin.me/), a frontend engineer at [Omio](https://omio.com/) and the creator of [React Styleguidist](https://react-styleguidist.js.org/).
 
 [![Creative Commons Attribution 4.0 International License](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
